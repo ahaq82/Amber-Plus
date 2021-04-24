@@ -3,7 +3,6 @@ const toCache = [
   '/',
   '/index.html',
   '/status.js',
-  'src/index.css',
   'src/index.js',
   'src/pages/Home.js',
   'src/pages/Missing.js',
